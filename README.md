@@ -4,6 +4,8 @@ THIS IS MY UPDATED RESUME
 
 ### Aspiring Data Analyst | Computer Skills Trainer
 
+<img src="Nishant_Kumar_Profile_Photo.png" alt="Nishant Kumar" width="160" align="right">
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
