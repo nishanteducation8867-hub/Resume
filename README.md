@@ -1,6 +1,6 @@
 # Resume
 THIS IS MY UPDATED RESUME
-# Hi, I'm Nishant Kumar 👋
+# Hi, I'm Nishant Kumar 
 
 ### Aspiring Data Analyst | Computer Skills Trainer
 
